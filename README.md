@@ -17,7 +17,7 @@ A single-file Sudoku application written in Python 3.8+, combining a bitwise opt
 
 1. **File → Open** → select `sudoku_app.py`
 2. Set your **Python Interpreter** Python 3.8+.
-3. Right the file in IDE of choice
+3. Open the file/project in IDE of choice
 
 ### Terminal / Command Line
 ```bash
