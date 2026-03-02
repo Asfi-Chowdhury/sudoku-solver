@@ -9,7 +9,7 @@ A single-file Sudoku application written in Python 3.8+, combining a bitwise opt
 ## Requirements
 
 - Python **3.8 or higher**
-- `tkinter` - built into default Python library (Windows & MacOS)
+- `tkinter` - Built into default Python library (Windows & MacOS)
 
 ---
 
