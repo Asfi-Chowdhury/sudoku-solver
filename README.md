@@ -1,7 +1,7 @@
-# Sudoku Engine
+# Sudoku Game Engine
 ### Constraint Propagation via Backtracking Search & O(1) Bitmask Validation
 
-A high-performance, single-file Sudoku application written in Python 3.8+, combining a bitwise optimised constraint engine with a Tkinter GUI. Every puzzle is generated, uniqueness is verified, then solvable in milliseconds using backtracking search with Minimum Remaining Values (MRV) pruning.
+A single-file Sudoku application written in Python 3.8+, combining a bitwise optimised constraint engine with a Tkinter GUI. Every puzzle is generated, uniqueness is verified, then solvable in milliseconds using backtracking search & Minimum Remaining Values (MRV) pruning.
 
 
 ---
